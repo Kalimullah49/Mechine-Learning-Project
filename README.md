@@ -89,19 +89,10 @@ You are free to use, modify, and share with proper credit.
 
 ---
 
-## 💼 Ideal for Portfolio & Resume
-
-These projects demonstrate hands-on experience with real-world datasets and problem-solving using machine learning. Add this repo to your:
-- ✅ Resume / CV
-- ✅ GitHub Portfolio
-- ✅ LinkedIn Projects
-
----
-
 ## 📬 Contact
 
 **Author**: Kalimullah  
-**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hafizkalimullah/)  
+**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/hafizkalimullah/)  
 **Email**: hafizkalimullah49@gmail.com
 
 Let’s connect and collaborate on data science and ML!
